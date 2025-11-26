@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "Device Info Pro",
+          "Native Channel",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         centerTitle: true,
